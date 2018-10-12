@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05cd1bbb-d896-4e29-a2dd-90527601c309" name="Default" comment="" />
+    <list default="true" id="05cd1bbb-d896-4e29-a2dd-90527601c309" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +72,8 @@
       <file leaf-file-name="ActionAuthorizationHadler.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+            <state relative-caret-position="162">
+              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
               <folding>
                 <marker date="1539347075325" expanded="false" signature="6:340" ph="..." />
                 <marker date="1539347075325" expanded="true" signature="368:1768" ph="{...}" />
@@ -464,12 +466,12 @@
       <workItem from="1539335160948" duration="3666000" />
       <workItem from="1539339803405" duration="5067000" />
       <workItem from="1539345161605" duration="334000" />
-      <workItem from="1539345613330" duration="4812000" />
+      <workItem from="1539345613330" duration="4944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65544000" />
+    <option name="totallyTimeSpent" value="65676000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1124,8 +1126,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        <state relative-caret-position="162">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
           <folding>
             <marker date="1539347075325" expanded="false" signature="6:340" ph="..." />
             <marker date="1539347075325" expanded="true" signature="368:1768" ph="{...}" />
