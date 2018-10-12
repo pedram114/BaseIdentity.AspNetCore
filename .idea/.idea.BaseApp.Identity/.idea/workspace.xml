@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05cd1bbb-d896-4e29-a2dd-90527601c309" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BaseApp.Identity" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RoleManagerController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="53" column="12" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+              <folding>
+                <marker date="1539346728060" expanded="false" signature="6:466" ph="..." />
+                <marker date="1539346728060" expanded="true" signature="506:2362" ph="{...}" />
+                <marker date="1539346728060" expanded="true" signature="653:2360" ph="{...}" />
+                <marker date="1539346728060" expanded="true" signature="971:1045" ph="{...}" />
+                <marker date="1539346728060" expanded="true" signature="1344:1703" ph="{...}" />
+                <marker date="1539346728060" expanded="true" signature="1391:1466" ph="{...}" />
+                <marker date="1539346728060" expanded="true" signature="1967:2353" ph="{...}" />
+                <marker date="1539346728060" expanded="true" signature="2014:2089" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="118" column="8" lean-forward="false" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+              <folding>
+                <marker date="1539349902187" expanded="false" signature="6:342" ph="..." />
+                <marker date="1539349902187" expanded="true" signature="379:4533" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="425:4531" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="986:1196" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="1317:2079" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="1802:1939" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="2190:2452" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="2567:3116" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="2663:2785" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="2802:2958" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="3207:3416" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="3539:3790" ph="{...}" />
+                <marker date="1539349902187" expanded="true" signature="3903:4525" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task`1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/58/5cb9ac24/Task`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="189" column="8" lean-forward="false" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ActionAuthorizationHadler.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+              <folding>
+                <marker date="1539347075325" expanded="false" signature="6:340" ph="..." />
+                <marker date="1539347075325" expanded="true" signature="368:1768" ph="{...}" />
+                <marker date="1539347075325" expanded="true" signature="437:1766" ph="{...}" />
+                <marker date="1539347075325" expanded="true" signature="729:822" ph="{...}" />
+                <marker date="1539347075325" expanded="true" signature="892:1758" ph="{...}" />
+                <marker date="1539347075325" expanded="true" signature="959:1062" ph="{...}" />
+                <marker date="1539347075325" expanded="true" signature="1621:1693" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/DashboardController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <folding>
+                <marker date="1539335894532" expanded="false" signature="6:289" ph="..." />
+                <marker date="1539335894532" expanded="true" signature="329:1721" ph="{...}" />
+                <marker date="1539335894532" expanded="true" signature="473:1719" ph="{...}" />
+                <marker date="1539335894532" expanded="true" signature="745:867" ph="{...}" />
+                <marker date="1539335894532" expanded="true" signature="998:1713" ph="{...}" />
+                <marker date="1539335894532" expanded="true" signature="1021:1077" ph="/* retrieve the user info ... */" />
+                <marker date="1539335894532" expanded="true" signature="1342:1701" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/AuthController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+              <folding>
+                <marker date="1539345733483" expanded="false" signature="6:424" ph="..." />
+                <marker date="1539345733483" expanded="true" signature="464:2973" ph="{...}" />
+                <marker date="1539345733483" expanded="true" signature="544:2971" ph="{...}" />
+                <marker date="1539345733483" expanded="true" signature="1116:1370" ph="{...}" />
+                <marker date="1539345733483" expanded="true" signature="1636:2349" ph="{...}" />
+                <marker date="1539345733483" expanded="true" signature="1683:1758" ph="{...}" />
+                <marker date="1539345733483" expanded="true" signature="1911:2085" ph="{...}" />
+                <marker date="1539345733483" expanded="true" signature="2599:2964" ph="{...}" />
+                <marker date="1539345733483" expanded="true" signature="2646:2721" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IUserService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Services/Interfaces/IUserService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding>
+                <marker date="1539343228686" expanded="false" signature="6:165" ph="..." />
+                <marker date="1539343228686" expanded="true" signature="213:789" ph="{...}" />
+                <marker date="1539343228686" expanded="true" signature="249:787" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="182" column="9" lean-forward="false" selection-start-line="182" selection-start-column="9" selection-end-line="182" selection-end-column="9" />
+              <folding>
+                <marker date="1539345047466" expanded="false" signature="6:829" ph="..." />
+                <marker date="1539345047466" expanded="true" signature="884:8143" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="1185:1244" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="1295:1451" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="1689:7339" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="2228:2549" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="2677:3194" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="3246:3455" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="3489:3823" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="3937:4124" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="4285:4415" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="4729:5652" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="5894:5975" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="6154:7144" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="6570:6654" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="7527:8137" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="7574:7651" ph="{...}" />
+                <marker date="1539345047466" expanded="true" signature="7822:7939" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+                <marker date="1539345047466" expanded="true" signature="7973:8087" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>swagg</find>
+      <find>custo</find>
+      <find>exter</find>
+      <find>customer</find>
+      <find>_userManager</find>
+      <find>_jwtFactory</find>
+      <find>OperationFilter</find>
+      <find>AppendAuthorizeToSummaryOperationFilter</find>
+      <find>DescriptionOperationFilter</find>
+      <find>connect</find>
+      <find>policy</find>
+      <find>user</find>
+      <find>userma</find>
+      <find>seed</find>
+      <find>applicationuser</find>
+      <find>bearer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/28939326-C292-48CF-9CC4-5D066536368B/04/19762784/UserManager`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/CredentialsViewModelExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F2B9B829-D955-4367-82F8-CEC710ADA7F3/4d/40b781b6/IMapper.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41558F45-1DE2-404D-84A9-7197007A14AD/4f/1648c98a/JwtBearerDefaults.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/Gender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/87/b11e0406/IdentityUser`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/43/da1901e2/IdentityUser.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/49907C74-F280-4ABF-9162-34AC7BEC5688/87/476cc6e5/SigningCredentials.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Helpers/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/FacebookAuthViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Auth/JwtFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Auth/IJwtFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/AuthController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/49907C74-F280-4ABF-9162-34AC7BEC5688/b7/b7db28c5/TokenValidationParameters.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/UserInRolesViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Model/ExternalData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Model/ApplicationUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73C2442E-9E00-4009-9ACA-95EBA02DDCA8/d3/6e21ac0f/Enumerable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/CredentialsViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A265BEBB-9641-429B-80FD-9ADD70F86962/be/61ace9c7/IdentityUserContext`5.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/RegisterViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/ShowUsersViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7DF771FE-658E-469B-995A-7388BCD41B3C/44/d038d67d/ExamplesOperationFilter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A4B76029-6335-4DF8-AF81-C56E1A4DD237/b7/7f4b0b0b/SecurityScheme.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A4B76029-6335-4DF8-AF81-C56E1A4DD237/54/e16af96f/ApiKeyScheme.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/AccountController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D3DDEC-A6F2-4F53-947F-C5D8C393F4AD/36/e7cf0b53/AuthorizationPolicyBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Services/Interfaces/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D3DDEC-A6F2-4F53-947F-C5D8C393F4AD/56/e9f4d2ee/AuthorizeAttribute.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/AddNewRoleViewModelExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/AddNewRoleViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/DashboardController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Model/ApplicationRole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Model/BaseEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/0a/caa9749e/IdentityRole.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Model/AccessAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/c2/d493b8ab/TaskAwaiter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Model/JwtIssuerOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/58/5cb9ac24/Task`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/215E343F-92F7-4069-B125-6F32B7E73FF2/b0/9f9a6ddb/JwtRegisteredClaimNames.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/33/9491a57b/Thread.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/AppSettingConfigs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/UserInRolesViewModelExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Helpers/Tokens.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Helpers/Errors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/MappingProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/RegisterViewModelExample.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/Mappings.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/Validations/CredentialsViewModelValidator.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/Validations/RegistrationViewModelValidator.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/FacebookAuthViewModel.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/CredentialsViewModel.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/JwtIssuerOptions.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Auth/IJwtFactory.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Helpers/Constants.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Helpers/Errors.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Helpers/TOKENS.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Helpers/Tokens.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Auth/JwtFactory.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/Customer.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/Profile.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/Gender.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Services/UserServices.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/RegistrationViewModel.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/ExternalData.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Program.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Services/BusinessService.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Services/Interfaces/IBusinessService.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/28939326-C292-48CF-9CC4-5D066536368B/04/19762784/UserManager`1.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/RegisterViewModelExample.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/BaseApp.Identity.csproj" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/CredentialsViewModelExample.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Scripts/swagger-bearer-auth.js" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/ShowUsersViewModel.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/ApplicationUser.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/AppSettingConfigs.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/appsettings.json" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagement.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/InsertNewRoleViewModel.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Controllers/DashboardController.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Controllers/AccountController.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Services/Interfaces/IUserService.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Startup.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Controllers/AuthController.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/UserInRolesViewModel.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/UserInRolesViewModelExample.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/BaseEntity.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/AccessActions.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/AccessAction.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ApplicationDbContext.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Model/ApplicationRole.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/MappingProfile.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/AddNewRoleViewModelExample.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/ViewModels/AddNewRoleViewModel.cs" />
+        <option value="$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="714" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BaseApp.Identity (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BaseApp.Identity (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BaseApp.Identity" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BaseApp.Identity (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BaseApp.Identity" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Migrations" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BaseApp.Identity (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BaseApp.Identity" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Services" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="BaseApp.Identity (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BaseApp.Identity" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SwaggerExamples" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.BaseApp.Identity">
+    <configuration name="BaseApp.Identity" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaseApp.Identity" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BaseApp.Identity/BaseApp.Identity.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.BaseApp.Identity" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.BaseApp.Identity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05cd1bbb-d896-4e29-a2dd-90527601c309" name="Default" comment="" />
+      <created>1538740264700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538740264700</updated>
+      <workItem from="1538740266447" duration="2294000" />
+      <workItem from="1538744124621" duration="306000" />
+      <workItem from="1538744456040" duration="132000" />
+      <workItem from="1538744933757" duration="6131000" />
+      <workItem from="1538758692495" duration="1013000" />
+      <workItem from="1538837325829" duration="4557000" />
+      <workItem from="1538928710775" duration="4937000" />
+      <workItem from="1539004859709" duration="7412000" />
+      <workItem from="1539235691251" duration="7750000" />
+      <workItem from="1539246181211" duration="6683000" />
+      <workItem from="1539256293248" duration="100000" />
+      <workItem from="1539256449386" duration="4030000" />
+      <workItem from="1539325429907" duration="6020000" />
+      <workItem from="1539334196567" duration="300000" />
+      <workItem from="1539335160948" duration="3666000" />
+      <workItem from="1539339803405" duration="5067000" />
+      <workItem from="1539345161605" duration="334000" />
+      <workItem from="1539345613330" duration="4652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="65384000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43603852" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43603852" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34112793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41265476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D3DDEC-A6F2-4F53-947F-C5D8C393F4AD/56/e9f4d2ee/AuthorizeAttribute.cs</url>
+          <line>29</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D3DDEC-A6F2-4F53-947F-C5D8C393F4AD/56/e9f4d2ee/AuthorizeAttribute.cs" initialLine="29">
+            <startOffsets>
+              <startOffset value="1349" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1370" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D3DDEC-A6F2-4F53-947F-C5D8C393F4AD/56/e9f4d2ee/AuthorizeAttribute.cs</url>
+          <line>20</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D3DDEC-A6F2-4F53-947F-C5D8C393F4AD/56/e9f4d2ee/AuthorizeAttribute.cs" initialLine="20">
+            <startOffsets>
+              <startOffset value="1010" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1011" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/ApplicationDbContext.cs</url>
+          <line>30</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/ApplicationDbContext.cs" initialLine="29">
+            <startOffsets>
+              <startOffset value="1073" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1139" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs</url>
+          <line>45</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs" initialLine="53">
+            <startOffsets>
+              <startOffset value="1367" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1391" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs</url>
+          <line>53</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs" initialLine="59">
+            <startOffsets>
+              <startOffset value="1646" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1693" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs</url>
+          <line>115</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs" initialLine="111">
+            <startOffsets>
+              <startOffset value="4455" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="4513" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs</url>
+          <line>46</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs" initialLine="39">
+            <startOffsets>
+              <startOffset value="1542" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1604" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs</url>
+          <line>49</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs" initialLine="42">
+            <startOffsets>
+              <startOffset value="1664" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1679" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs</url>
+          <line>99</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs" initialLine="98">
+            <startOffsets>
+              <startOffset value="3562" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="3668" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs</url>
+          <line>45</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs" initialLine="39">
+            <startOffsets>
+              <startOffset value="1445" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1525" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs</url>
+          <line>107</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs" initialLine="106">
+            <startOffsets>
+              <startOffset value="3926" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="4266" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs</url>
+          <line>90</line>
+          <properties documentPath="$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs" initialLine="89">
+            <startOffsets>
+              <startOffset value="3230" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="3264" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="90" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F2B9B829-D955-4367-82F8-CEC710ADA7F3/4d/40b781b6/IMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181011061242_Initialize.cs" />
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181011071221_Initialize.cs" />
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/Gender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181011071418_Initialize.cs" />
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Model/ExternalData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Services/Interfaces/IUserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="83" column="9" lean-forward="false" selection-start-line="67" selection-start-column="3" selection-end-line="83" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/28939326-C292-48CF-9CC4-5D066536368B/04/19762784/UserManager`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="348" column="26" lean-forward="false" selection-start-line="348" selection-start-column="26" selection-end-line="348" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A265BEBB-9641-429B-80FD-9ADD70F86962/be/61ace9c7/IdentityUserContext`5.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="60" column="68" lean-forward="false" selection-start-line="60" selection-start-column="67" selection-end-line="60" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/RegisterViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7DF771FE-658E-469B-995A-7388BCD41B3C/44/d038d67d/ExamplesOperationFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/BaseApp.Identity.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="73" lean-forward="false" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Scripts/swagger-bearer-auth.js" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/43/da1901e2/IdentityUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/CredentialsViewModelExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="64" lean-forward="false" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/RegisterViewModelExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/AppSettingConfigs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Helpers/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagement.cs" />
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Model/ApplicationUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/ShowUsersViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/AccountController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8F4D404-F851-4FC0-8EDD-C732D4B20979/0a/caa9749e/IdentityRole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/c2/d493b8ab/TaskAwaiter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181012094337_AddApplicationRole.cs" />
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181012094601_AddApplicationRole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/ApplicationDbContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181012113107_AddActionAndCotrollerNormalizedNameInRoleTable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="182" column="9" lean-forward="false" selection-start-line="182" selection-start-column="9" selection-end-line="182" selection-end-column="9" />
+          <folding>
+            <marker date="1539345047466" expanded="false" signature="6:829" ph="..." />
+            <marker date="1539345047466" expanded="true" signature="884:8143" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="1185:1244" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="1295:1451" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="1689:7339" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="2228:2549" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="2677:3194" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="3246:3455" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="3489:3823" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="3937:4124" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="4285:4415" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="4729:5652" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="5894:5975" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="6154:7144" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="6570:6654" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="7527:8137" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="7574:7651" ph="{...}" />
+            <marker date="1539345047466" expanded="true" signature="7822:7939" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
+            <marker date="1539345047466" expanded="true" signature="7973:8087" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/UserInRolesViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1539346709464" expanded="true" signature="72:223" ph="{...}" />
+            <marker date="1539346709464" expanded="true" signature="112:221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/UserInRolesViewModelExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="54" lean-forward="false" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+          <folding>
+            <marker date="1539346826566" expanded="true" signature="6:107" ph="..." />
+            <marker date="1539346826566" expanded="true" signature="151:498" ph="{...}" />
+            <marker date="1539346826566" expanded="true" signature="218:496" ph="{...}" />
+            <marker date="1539346826566" expanded="true" signature="260:489" ph="{...}" />
+            <marker date="1539346826566" expanded="true" signature="330:478" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Services/Interfaces/IUserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <marker date="1539343228686" expanded="false" signature="6:165" ph="..." />
+            <marker date="1539343228686" expanded="true" signature="213:789" ph="{...}" />
+            <marker date="1539343228686" expanded="true" signature="249:787" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/33/9491a57b/Thread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="111" column="8" lean-forward="false" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/AuthController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="52" column="12" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
+          <folding>
+            <marker date="1539345733483" expanded="false" signature="6:424" ph="..." />
+            <marker date="1539345733483" expanded="true" signature="464:2973" ph="{...}" />
+            <marker date="1539345733483" expanded="true" signature="544:2971" ph="{...}" />
+            <marker date="1539345733483" expanded="true" signature="1116:1370" ph="{...}" />
+            <marker date="1539345733483" expanded="true" signature="1636:2349" ph="{...}" />
+            <marker date="1539345733483" expanded="true" signature="1683:1758" ph="{...}" />
+            <marker date="1539345733483" expanded="true" signature="1911:2085" ph="{...}" />
+            <marker date="1539345733483" expanded="true" signature="2599:2964" ph="{...}" />
+            <marker date="1539345733483" expanded="true" signature="2646:2721" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/DashboardController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <marker date="1539335894532" expanded="false" signature="6:289" ph="..." />
+            <marker date="1539335894532" expanded="true" signature="329:1721" ph="{...}" />
+            <marker date="1539335894532" expanded="true" signature="473:1719" ph="{...}" />
+            <marker date="1539335894532" expanded="true" signature="745:867" ph="{...}" />
+            <marker date="1539335894532" expanded="true" signature="998:1713" ph="{...}" />
+            <marker date="1539335894532" expanded="true" signature="1021:1077" ph="/* retrieve the user info ... */" />
+            <marker date="1539335894532" expanded="true" signature="1342:1701" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Model/BaseEntity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1539348097846" expanded="true" signature="47:402" ph="{...}" />
+            <marker date="1539348097846" expanded="true" signature="77:400" ph="{...}" />
+            <marker date="1539348097846" expanded="true" signature="111:204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Model/AccessAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <marker date="1539348215185" expanded="true" signature="47:389" ph="{...}" />
+            <marker date="1539348215185" expanded="true" signature="92:387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ApplicationDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <marker date="1539348230850" expanded="false" signature="6:306" ph="..." />
+            <marker date="1539348230850" expanded="true" signature="334:1428" ph="{...}" />
+            <marker date="1539348230850" expanded="true" signature="413:875" ph="{...}" />
+            <marker date="1539348230850" expanded="true" signature="499:539" ph="{...}" />
+            <marker date="1539348230850" expanded="true" signature="593:665" ph="{...}" />
+            <marker date="1539348230850" expanded="true" signature="973:1420" ph="{...}" />
+            <marker date="1539348230850" expanded="true" signature="1048:1413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181011092845_initialize.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Migrations/20181012125035_Initialize.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Model/ApplicationRole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1539349205935" expanded="false" signature="6:89" ph="..." />
+            <marker date="1539349205935" expanded="true" signature="123:261" ph="{...}" />
+            <marker date="1539349205935" expanded="true" signature="173:259" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/MappingProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <marker date="1539349587852" expanded="false" signature="6:152" ph="..." />
+            <marker date="1539349587852" expanded="true" signature="180:1906" ph="{...}" />
+            <marker date="1539349587852" expanded="true" signature="225:1904" ph="{...}" />
+            <marker date="1539349587852" expanded="true" signature="259:1898" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ViewModels/AddNewRoleViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <marker date="1539349589172" expanded="true" signature="72:382" ph="{...}" />
+            <marker date="1539349589172" expanded="true" signature="111:231" ph="{...}" />
+            <marker date="1539349589172" expanded="true" signature="260:380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/AddNewRoleViewModelExample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <marker date="1539349593707" expanded="false" signature="6:121" ph="..." />
+            <marker date="1539349593707" expanded="true" signature="165:658" ph="{...}" />
+            <marker date="1539349593707" expanded="true" signature="231:656" ph="{...}" />
+            <marker date="1539349593707" expanded="true" signature="273:649" ph="{...}" />
+            <marker date="1539349593707" expanded="true" signature="341:637" ph="{...}" />
+            <marker date="1539349593707" expanded="true" signature="444:606" ph="{...}" />
+            <marker date="1539349593707" expanded="true" signature="482:588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="53" column="12" lean-forward="false" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
+          <folding>
+            <marker date="1539346728060" expanded="false" signature="6:466" ph="..." />
+            <marker date="1539346728060" expanded="true" signature="506:2362" ph="{...}" />
+            <marker date="1539346728060" expanded="true" signature="653:2360" ph="{...}" />
+            <marker date="1539346728060" expanded="true" signature="971:1045" ph="{...}" />
+            <marker date="1539346728060" expanded="true" signature="1344:1703" ph="{...}" />
+            <marker date="1539346728060" expanded="true" signature="1391:1466" ph="{...}" />
+            <marker date="1539346728060" expanded="true" signature="1967:2353" ph="{...}" />
+            <marker date="1539346728060" expanded="true" signature="2014:2089" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Services/UserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="118" column="8" lean-forward="false" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+          <folding>
+            <marker date="1539349902187" expanded="false" signature="6:342" ph="..." />
+            <marker date="1539349902187" expanded="true" signature="379:4533" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="425:4531" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="986:1196" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="1317:2079" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="1802:1939" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="2190:2452" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="2567:3116" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="2663:2785" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="2802:2958" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="3207:3416" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="3539:3790" ph="{...}" />
+            <marker date="1539349902187" expanded="true" signature="3903:4525" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F01EB4C9-D938-46F0-9C00-BE59D54339E9/58/5cb9ac24/Task`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="189" column="8" lean-forward="false" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding>
+            <marker date="1539347075325" expanded="false" signature="6:340" ph="..." />
+            <marker date="1539347075325" expanded="true" signature="368:1768" ph="{...}" />
+            <marker date="1539347075325" expanded="true" signature="437:1766" ph="{...}" />
+            <marker date="1539347075325" expanded="true" signature="729:822" ph="{...}" />
+            <marker date="1539347075325" expanded="true" signature="892:1758" ph="{...}" />
+            <marker date="1539347075325" expanded="true" signature="959:1062" ph="{...}" />
+            <marker date="1539347075325" expanded="true" signature="1621:1693" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
