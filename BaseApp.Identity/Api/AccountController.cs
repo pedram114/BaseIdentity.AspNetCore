@@ -2,23 +2,20 @@
 using AutoMapper;
 using BaseApp.Identity.Model;
 using BaseApp.Identity.Services.Interfaces;
-using BaseApp.Identity.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
-using Microsoft.EntityFrameworkCore;
 
-namespace BaseApp.Identity.Controllers
+namespace BaseApp.Identity.Api
 {
     [Route("api/[controller]")]
-    public class AccountsController : Controller
+    public class AccountController : Microsoft.AspNetCore.Mvc.Controller
     {
         private readonly ApplicationDbContext _appDbContext;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly IMapper _mapper;
         private readonly IUserService _userService;
 
-        public AccountsController(ApplicationDbContext  appDbContext,UserManager<ApplicationUser> userManager,IMapper mapper
+        public AccountController(ApplicationDbContext  appDbContext,UserManager<ApplicationUser> userManager,IMapper mapper
         ,IUserService userService)
         {
             _mapper = mapper;
@@ -26,8 +23,9 @@ namespace BaseApp.Identity.Controllers
             _userManager = userManager;
             _userService = userService;
         }
-        [HttpGet("accounts")]
-        public async Task<IActionResult> Get()
+        [HttpGet]
+        [Route("accounts")]
+        public async Task<IActionResult> Accounts()
         {
             var customers =await _userService.GetUsersTaskAsync();
             return new OkObjectResult(new

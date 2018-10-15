@@ -1,23 +1,23 @@
-﻿using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using System.Threading.Tasks;
 using AutoMapper;
 using BaseApp.Identity.Auth;
-using BaseApp.Identity.Helpers;
 using BaseApp.Identity.Model;
 using BaseApp.Identity.Services.Interfaces;
 using BaseApp.Identity.SwaggerExamples;
 using BaseApp.Identity.ViewModels;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
-using Newtonsoft.Json;
 using Swashbuckle.AspNetCore.Examples;
 
-namespace BaseApp.Identity.Controllers
+namespace BaseApp.Identity.Api
 {
 //    [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]/[action]")]
-    public class RoleManagerController : Controller
+    public class RoleManagerController : Microsoft.AspNetCore.Mvc.Controller
     {
      
         
@@ -41,7 +41,7 @@ namespace BaseApp.Identity.Controllers
         [HttpPost]
         [SwaggerRequestExample(typeof(AddNewRoleViewModel),typeof(AddNewRoleViewModelExample))]
 
-        public async Task<IActionResult> Post([FromBody] AddNewRoleViewModel newrole)
+        public async Task<IActionResult> AddNewRole([FromBody] AddNewRoleViewModel newrole)
         {
             if (!ModelState.IsValid)
             {
@@ -60,7 +60,7 @@ namespace BaseApp.Identity.Controllers
         [HttpPost]
         [SwaggerRequestExample(typeof(UserInRolesViewModel),typeof(UserInRolesViewModelExample))]
 
-        public async Task<IActionResult> Post([FromBody] UserInRolesViewModel model)
+        public async Task<IActionResult> AddUserToRoles([FromBody] UserInRolesViewModel model)
         {
             if (!ModelState.IsValid)
             {
@@ -73,5 +73,28 @@ namespace BaseApp.Identity.Controllers
             return new OkObjectResult("New Role Created.");
         }
 
+
+
+        [Route("getallactions")]
+        [HttpGet]
+        public List<Actions> GetAllActios()
+        {
+            var result = new List<Actions>();
+            var controllers = Assembly.GetExecutingAssembly().GetTypes().
+                Where(type => typeof(Microsoft.AspNetCore.Mvc.Controller).IsAssignableFrom(type)).ToList();
+            foreach (var controller in controllers)
+            {
+                var methods = controller.GetMethods
+                    (BindingFlags.Public|BindingFlags.Instance|BindingFlags.DeclaredOnly);
+                result.AddRange(methods.Select(x => new Actions()
+                {
+                    ActionName = x.Name,
+                    ControllerName = controller.Name
+
+                }).ToList());
+            }
+
+            return result;
+        }
     }
 }

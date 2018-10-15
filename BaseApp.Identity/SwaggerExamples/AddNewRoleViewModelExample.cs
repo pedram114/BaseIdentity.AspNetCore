@@ -12,9 +12,9 @@ namespace BaseApp.Identity.SwaggerExamples
             return new AddNewRoleViewModel()
             {
                 RoleName = "Admin",
-                Actions = new List<ActionList>()
+                Actions = new List<Actions>()
                 {
-                    new ActionList(){
+                    new Actions(){
                     ActionName = "God",
                     ControllerName = "God"
                     }

@@ -8,12 +8,12 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace BaseApp.Identity.Controllers
+namespace BaseApp.Identity.Api
 {
 
     [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]/[action]")]
-    public class DashboardController : Controller
+    public class DashboardController : Microsoft.AspNetCore.Mvc.Controller
     {
         private readonly ClaimsPrincipal _caller;
         private readonly ApplicationDbContext _appDbContext;

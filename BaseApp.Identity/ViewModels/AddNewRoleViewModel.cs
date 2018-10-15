@@ -6,10 +6,10 @@ namespace BaseApp.Identity.ViewModels
     {
         public string RoleName { get; set; }
         
-        public List<ActionList> Actions { get; set; }
+        public List<Actions> Actions { get; set; }
     }
 
-    public class ActionList
+    public class Actions
     {
         public string ActionName { get; set; }
         

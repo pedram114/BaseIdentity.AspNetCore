@@ -67,6 +67,10 @@
         "Swashbuckle.AspNetCore.Examples": {
           "target": "Package",
           "version": "[2.9.0, )"
+        },
+        "angularjs": {
+          "target": "Package",
+          "version": "[1.7.2, )"
         }
       },
       "imports": [

@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using AutoMapper;
 using BaseApp.Identity.Auth;
+using BaseApp.Identity.AutoMapper;
 using BaseApp.Identity.Helpers;
 using BaseApp.Identity.Model;
 using BaseApp.Identity.Services;
@@ -27,9 +28,7 @@ namespace BaseApp.Identity
 {
     public class Startup
     {
-        private const string SecretKey = "iNivDmHLpUA223sqsfhqGbMRdRj1PVkH"; // todo: get this from somewhere secure
-        private readonly SymmetricSecurityKey _signingKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(SecretKey));
-
+     
        
         public static string ConnectionString {  
             get;  
@@ -48,7 +47,6 @@ namespace BaseApp.Identity
         public void ConfigureServices(IServiceCollection services)
         {
             
-         
             ConnectionString = Configuration["ConnectionStrings:DefaultConnection"];
 
             var jwtAppSettingOptions = Configuration.GetSection(nameof(JwtIssuerOptions));
@@ -58,13 +56,14 @@ namespace BaseApp.Identity
             Configuration.Bind("AppSettingConfigs", config);      //  <--- This
             services.AddSingleton(config);
             
-            
+            var signingKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(config.SecretKey));
+
             // Configure JwtIssuerOptions
             services.Configure<JwtIssuerOptions>(options =>
             {
                 options.Issuer = jwtAppSettingOptions[nameof(JwtIssuerOptions.Issuer)];
                 options.Audience = jwtAppSettingOptions[nameof(JwtIssuerOptions.Audience)];
-                options.SigningCredentials = new SigningCredentials(_signingKey, SecurityAlgorithms.HmacSha256);
+                options.SigningCredentials = new SigningCredentials(signingKey, SecurityAlgorithms.HmacSha256);
             });
             
             
@@ -78,7 +77,7 @@ namespace BaseApp.Identity
                 ValidAudience = jwtAppSettingOptions[nameof(JwtIssuerOptions.Audience)],
 
                 ValidateIssuerSigningKey = false,
-                IssuerSigningKey = _signingKey,
+                IssuerSigningKey = signingKey,
 
                 RequireExpirationTime = false,
                 ValidateLifetime = true,
@@ -200,7 +199,12 @@ namespace BaseApp.Identity
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");          
             });
-            app.UseMvc();
+            app.UseMvc( routes =>
+            {
+                routes.MapRoute(
+                    name: "default",
+                    template: "{controller=Home}/{action=Index}/{id?}");
+            });
            
         }
     }

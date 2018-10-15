@@ -6,9 +6,9 @@
   <ItemGroup>
     <Folder Include="Migrations" />
     <Folder Include="Scripts" />
-    <Folder Include="wwwroot\" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="angularjs" Version="1.7.2" />
     <PackageReference Include="AutoMapper" Version="7.0.1" />
     <PackageReference Include="FluentValidation" Version="8.0.100" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
