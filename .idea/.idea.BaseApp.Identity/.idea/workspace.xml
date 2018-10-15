@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05cd1bbb-d896-4e29-a2dd-90527601c309" name="Default" comment="" />
+    <list default="true" id="05cd1bbb-d896-4e29-a2dd-90527601c309" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +15,26 @@
     <favorites_list name="BaseApp.Identity" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ActionAuthorizationHadler.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="51" column="15" lean-forward="false" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+              <folding>
+                <marker date="1539352255509" expanded="false" signature="6:340" ph="..." />
+                <marker date="1539352255509" expanded="true" signature="368:1768" ph="{...}" />
+                <marker date="1539352255509" expanded="true" signature="437:1766" ph="{...}" />
+                <marker date="1539352255509" expanded="true" signature="729:822" ph="{...}" />
+                <marker date="1539352255509" expanded="true" signature="892:1758" ph="{...}" />
+                <marker date="1539352255509" expanded="true" signature="959:1062" ph="{...}" />
+                <marker date="1539352255509" expanded="true" signature="1621:1693" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -329,12 +350,12 @@
       <workItem from="1539345161605" duration="334000" />
       <workItem from="1539345613330" duration="13545000" />
       <workItem from="1539603922938" duration="3438000" />
-      <workItem from="1539614889069" duration="11214000" />
+      <workItem from="1539614889069" duration="11409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88929000" />
+    <option name="totallyTimeSpent" value="89124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,9 +375,9 @@
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3933975" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43603852" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43603852" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34112793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24555735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24555735" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -664,21 +685,6 @@
     <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Views/Shared/_Layout.cshtml" />
     <entry file="file://$PROJECT_DIR$/BaseApp.Identity/wwwroot/Angularclasses/baseapp.js" />
     <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Views/Home/Register.cshtml" />
-    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="51" column="15" lean-forward="false" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-          <folding>
-            <marker date="1539352255509" expanded="false" signature="6:340" ph="..." />
-            <marker date="1539352255509" expanded="true" signature="437:1766" ph="{...}" />
-            <marker date="1539352255509" expanded="true" signature="729:822" ph="{...}" />
-            <marker date="1539352255509" expanded="true" signature="892:1758" ph="{...}" />
-            <marker date="1539352255509" expanded="true" signature="959:1062" ph="{...}" />
-            <marker date="1539352255509" expanded="true" signature="1621:1693" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BaseApp.Identity/registercontroller.js" />
     <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Controller/HomeController.cs" />
     <entry file="file://$PROJECT_DIR$/BaseApp.Identity/Services/Interfaces/IUserService.cs">
@@ -1437,6 +1443,22 @@
         <state relative-caret-position="240">
           <caret line="16" column="76" lean-forward="false" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseApp.Identity/ActionAuthorizationHadler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="51" column="15" lean-forward="false" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+          <folding>
+            <marker date="1539352255509" expanded="false" signature="6:340" ph="..." />
+            <marker date="1539352255509" expanded="true" signature="368:1768" ph="{...}" />
+            <marker date="1539352255509" expanded="true" signature="437:1766" ph="{...}" />
+            <marker date="1539352255509" expanded="true" signature="729:822" ph="{...}" />
+            <marker date="1539352255509" expanded="true" signature="892:1758" ph="{...}" />
+            <marker date="1539352255509" expanded="true" signature="959:1062" ph="{...}" />
+            <marker date="1539352255509" expanded="true" signature="1621:1693" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
