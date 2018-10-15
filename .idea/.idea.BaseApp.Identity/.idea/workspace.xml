@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05cd1bbb-d896-4e29-a2dd-90527601c309" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.vs/BaseApp.Identity/xs/UserPrefs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/contentModel.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.BaseApp.Identity/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity.sln" afterPath="$PROJECT_DIR$/BaseApp.Identity.sln" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/AppSettingConfigs.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/AppSettingConfigs.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/ApplicationDbContext.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/ApplicationDbContext.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/BaseApp.Identity.csproj" afterPath="$PROJECT_DIR$/BaseApp.Identity/BaseApp.Identity.csproj" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/Controllers/AccountController.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/Api/AccountController.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/Controllers/AuthController.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/Api/AuthController.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/Controllers/DashboardController.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/Api/DashboardController.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/Controllers/RoleManagerController.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/Api/RoleManagerController.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/MappingProfile.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/AutoMapper/MappingProfile.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/Startup.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/Startup.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/AddNewRoleViewModelExample.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/AddNewRoleViewModelExample.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/ViewModels/AddNewRoleViewModel.cs" afterPath="$PROJECT_DIR$/BaseApp.Identity/ViewModels/AddNewRoleViewModel.cs" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/appsettings.json" afterPath="$PROJECT_DIR$/BaseApp.Identity/appsettings.json" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.deps.json" afterPath="$PROJECT_DIR$/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.deps.json" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.dll" afterPath="$PROJECT_DIR$/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.dll" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.pdb" afterPath="$PROJECT_DIR$/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.pdb" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/obj/BaseApp.Identity.csproj.nuget.cache" afterPath="$PROJECT_DIR$/BaseApp.Identity/obj/BaseApp.Identity.csproj.nuget.cache" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.csproj.CoreCompileInputs.cache" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.dll" afterPath="$PROJECT_DIR$/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.dll" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.pdb" afterPath="$PROJECT_DIR$/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.pdb" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/obj/project.assets.json" afterPath="$PROJECT_DIR$/BaseApp.Identity/obj/project.assets.json" />
-      <change beforePath="$PROJECT_DIR$/BaseApp.Identity/obj/project.packagespec.json" afterPath="$PROJECT_DIR$/BaseApp.Identity/obj/project.packagespec.json" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,6 +56,7 @@
       <find>im</find>
       <find>SecretKey</find>
       <find>SymmetricSecurityKey</find>
+      <find>&lt;&lt;&lt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -151,6 +128,7 @@
     <setting file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/UserInRolesViewModelExample.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Helpers/Tokens.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaseApp.Identity/Helpers/Errors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaseApp.Identity/AutoMapper/MappingProfile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BaseApp.Identity/SwaggerExamples/RegisterViewModelExample.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -353,12 +331,12 @@
       <workItem from="1539345161605" duration="334000" />
       <workItem from="1539345613330" duration="13545000" />
       <workItem from="1539603922938" duration="3438000" />
-      <workItem from="1539614889069" duration="10563000" />
+      <workItem from="1539614889069" duration="10623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88278000" />
+    <option name="totallyTimeSpent" value="88338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1453,29 +1431,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
           <caret line="65" column="55" lean-forward="false" selection-start-line="65" selection-start-column="55" selection-end-line="65" selection-end-column="55" />
-          <folding>
-            <marker date="1539625397772" expanded="false" signature="6:864" ph="..." />
-            <marker date="1539625397772" expanded="true" signature="892:8211" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="919:8199" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="986:1045" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="1096:1252" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="1490:7214" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="2105:2425" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="2553:3069" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="3121:3330" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="3364:3698" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="3812:3999" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="4160:4290" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="4604:5527" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="5769:5850" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="6029:7019" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="6445:6529" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="7402:8193" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="7449:7526" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="7697:7814" ph="/* Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... */" />
-            <marker date="1539625397772" expanded="true" signature="7848:7962" ph="{...}" />
-            <marker date="1539625397772" expanded="true" signature="7998:8169" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
