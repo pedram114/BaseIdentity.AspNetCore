@@ -1,3 +1,5 @@
 # BaseIdentity.AspNetCore
 
-This is an application just for getting authentication and authorization.
+This web api application is for Authentication and Authorization which work with Json Web Token(JWT).
+Framework is .net core.
+The Authorization in this application is based on roles and roles can be defined by action and controller's names.
