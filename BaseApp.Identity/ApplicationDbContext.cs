@@ -20,7 +20,6 @@ namespace BaseApp.Identity
              return Startup.ConnectionString;  
          }
          public DbSet<ExternalData> ExternalData { set; get; }
-         public DbSet<ApplicationRole> ApplicationRole { set; get; }
          public DbSet<AccessAction> AccessActions { set; get; }
       
      }

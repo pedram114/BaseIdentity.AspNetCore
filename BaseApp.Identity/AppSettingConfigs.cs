@@ -3,7 +3,7 @@
     public class AppSettingConfigs
     {
         public Authentication Authentication { get; set; }
-       
+        public string SecretKey { set; get; }
     }
     
     

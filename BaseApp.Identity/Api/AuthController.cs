@@ -12,11 +12,11 @@ using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using Swashbuckle.AspNetCore.Examples;
 
-namespace BaseApp.Identity.Controllers
+namespace BaseApp.Identity.Api
 {
 
     [Route("api/[controller]")]
-    public class AuthController : Controller
+    public class AuthController : Microsoft.AspNetCore.Mvc.Controller
     {
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly IJwtFactory _jwtFactory;
@@ -43,7 +43,7 @@ namespace BaseApp.Identity.Controllers
         [HttpPost]
         [SwaggerRequestExample(typeof(CredentialsViewModel),typeof(CredentialsViewModelExample))]
 
-        public async Task<IActionResult> Post([FromBody] CredentialsViewModel credentials)
+        public async Task<IActionResult> Login([FromBody] CredentialsViewModel credentials)
         {
             if (!ModelState.IsValid)
             {
@@ -66,7 +66,7 @@ namespace BaseApp.Identity.Controllers
         [Route("register")]
         [HttpPost]
         [SwaggerRequestExample(typeof(RegisterViewModel),typeof(RegisterViewModelExample))]
-        public async Task<IActionResult> Post([FromBody]RegisterViewModel model)
+        public async Task<IActionResult> Register([FromBody]RegisterViewModel model)
         {
             if (!ModelState.IsValid)
             {

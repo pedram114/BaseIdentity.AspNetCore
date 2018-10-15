@@ -1,10 +1,8 @@
-﻿using System.Collections.Generic;
-using AutoMapper;
-using BaseApp.Identity.Model;
+﻿using BaseApp.Identity.Model;
 using BaseApp.Identity.ViewModels;
 using Profile = AutoMapper.Profile;
 
-namespace BaseApp.Identity
+namespace BaseApp.Identity.AutoMapper
 {
     public class MappingProfile : Profile {
         public MappingProfile() {
@@ -29,7 +27,7 @@ namespace BaseApp.Identity
                 .ForPath(d=>d.Name,s=>s.MapFrom(src=>src.RoleName))
                 .ForPath(d=>d.NormalizedName,s=>s.MapFrom(src=>src.RoleName.Normalize()))
                 ;
-            CreateMap<ActionList, AccessAction>()
+            CreateMap<Actions, AccessAction>()
                 .ForPath(d=>d.ActionName,s=>s.MapFrom(src=>src.ActionName))
                 .ForPath(d=>d.ActionNameNormalized,s=>s.MapFrom(src=>src.ActionName.Normalize()))
                 .ForPath(d=>d.ControlName,s=>s.MapFrom(src=>src.ControllerName))
