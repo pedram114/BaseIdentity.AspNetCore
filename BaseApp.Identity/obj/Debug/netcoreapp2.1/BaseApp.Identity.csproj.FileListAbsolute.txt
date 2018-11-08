@@ -1,0 +1,11 @@
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.deps.json
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.runtimeconfig.json
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.runtimeconfig.dev.json
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.dll
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/bin/Debug/netcoreapp2.1/BaseApp.Identity.pdb
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.csprojResolveAssemblyReference.cache
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.csproj.CoreCompileInputs.cache
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.AssemblyInfoInputs.cache
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.AssemblyInfo.cs
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.dll
+/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity/obj/Debug/netcoreapp2.1/BaseApp.Identity.pdb

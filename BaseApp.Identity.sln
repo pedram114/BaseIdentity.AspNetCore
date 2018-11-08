@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseApp.Identity", "BaseApp.Identity\BaseApp.Identity.csproj", "{43BD12AA-85F2-47C5-93A0-FA1BC6E38C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseApp.Identity.Test", "BaseApp.Identity.Test\BaseApp.Identity.Test.csproj", "{7CCBB890-DA49-4DEE-B1E6-8D46D3CADE47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43BD12AA-85F2-47C5-93A0-FA1BC6E38C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BD12AA-85F2-47C5-93A0-FA1BC6E38C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BD12AA-85F2-47C5-93A0-FA1BC6E38C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BD12AA-85F2-47C5-93A0-FA1BC6E38C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCBB890-DA49-4DEE-B1E6-8D46D3CADE47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCBB890-DA49-4DEE-B1E6-8D46D3CADE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCBB890-DA49-4DEE-B1E6-8D46D3CADE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCBB890-DA49-4DEE-B1E6-8D46D3CADE47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
