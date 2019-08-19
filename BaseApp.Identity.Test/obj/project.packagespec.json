@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity.Test/BaseApp.Identity.Test.csproj",
+    "projectUniqueName": "/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/BaseApp.Identity.Test.csproj",
     "projectName": "BaseApp.Identity.Test",
-    "projectPath": "/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity.Test/BaseApp.Identity.Test.csproj",
-    "outputPath": "/Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity.Test/obj/",
+    "projectPath": "/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/BaseApp.Identity.Test.csproj",
+    "outputPath": "/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

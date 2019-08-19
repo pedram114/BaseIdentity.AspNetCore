@@ -8,15 +8,18 @@ using BaseApp.Identity.Model;
 using BaseApp.Identity.Services.Interfaces;
 using BaseApp.Identity.SwaggerExamples;
 using BaseApp.Identity.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
+using Microsoft.IdentityModel.Tokens;
 using Swashbuckle.AspNetCore.Examples;
 
 namespace BaseApp.Identity.Api
 {
 //    [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]/[action]")]
+    [Authorize(AuthenticationSchemes = "Bearer")]
     public class RoleManagerController : Microsoft.AspNetCore.Mvc.Controller
     {
      
@@ -73,11 +76,25 @@ namespace BaseApp.Identity.Api
             return new OkObjectResult("New Role Created.");
         }
 
+        [Route("addactiontorole")]
+        [HttpPost]
+        public async Task<IActionResult> AddActionToRole([FromBody] AddNewRoleViewModel model)
+        {
+            
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
 
+            var response= await _userService.AddActionToRoleTaskAsync(model);
+            if(!response.Succeeded)
+                return new BadRequestObjectResult(response.Errors);
+            return new OkObjectResult("Actions added to the selected role");
+        }
 
-        [Route("getallactions")]
+        [Route("getallactions")]     
         [HttpGet]
-        public List<Actions> GetAllActios()
+        public async Task<List<Actions>> GetAllActios()
         {
             var result = new List<Actions>();
             var controllers = Assembly.GetExecutingAssembly().GetTypes().
@@ -94,6 +111,15 @@ namespace BaseApp.Identity.Api
                 }).ToList());
             }
 
+            return result;
+        }
+        
+        
+        [Route("getallroles")]
+        [HttpGet]
+        public async Task<List<AddNewRoleViewModel>> GetAllRoles()
+        {
+            var result = await _userService.GettAllRoles();
             return result;
         }
     }

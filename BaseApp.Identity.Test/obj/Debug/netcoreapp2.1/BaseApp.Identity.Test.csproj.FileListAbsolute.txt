@@ -12,3 +12,17 @@
 /Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.AssemblyInfo.cs
 /Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.dll
 /Users/pedramgilaniniya/Documents/development/BaseApplication/BaseApp.Identity/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.pdb
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/BaseApp.Identity.Test.deps.json
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/BaseApp.Identity.Test.runtimeconfig.json
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/BaseApp.Identity.Test.runtimeconfig.dev.json
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/BaseApp.Identity.Test.dll
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/bin/Debug/netcoreapp2.1/BaseApp.Identity.Test.pdb
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.csprojAssemblyReference.cache
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.csproj.CoreCompileInputs.cache
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.AssemblyInfoInputs.cache
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.AssemblyInfo.cs
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.dll
+/Users/pedramgilaniniya/Documents/development/BaseIdentity.AspNetCore/BaseApp.Identity.Test/obj/Debug/netcoreapp2.1/BaseApp.Identity.Test.pdb

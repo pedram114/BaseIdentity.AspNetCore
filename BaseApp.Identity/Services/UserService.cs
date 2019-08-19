@@ -57,8 +57,25 @@ namespace BaseApp.Identity.Services
             return await Task.FromResult<ClaimsIdentity>(null);
         }
 
-        
-        
+
+        public async Task<List<AddNewRoleViewModel>> GettAllRoles()
+        {
+            var data = await _roleManager.Roles.Include(r=>r.Actions).ToListAsync();
+            var retdata= data.Select(r => new AddNewRoleViewModel()
+            {
+                Actions = r.Actions?.Select(a=>new Actions()
+                {
+                     ActionName = a.ActionName,
+                     ControllerName = a.ControlName
+                }).ToList(),
+                RoleName = r.Name
+
+
+            }).ToList();
+            return retdata;
+        }
+
+
         public async Task<IdentityResult> CreateNewUserTaskAsync(RegisterViewModel newUser)
         {
             var userIdentity = _mapper.Map<ApplicationUser>(newUser);
@@ -105,17 +122,52 @@ namespace BaseApp.Identity.Services
 
         public async Task<bool> UserHasPermitToAction(string userName,string actionName,string controllerName)
         {
-            var action=await _appDbContext.AccessActions.Include(a=>a.ApplicationRole).FirstOrDefaultAsync(a => a.ActionNameNormalized == actionName.Normalize() &&
-                                                                 a.ControllerNameNormalized ==
-                                                                 controllerName.Normalize());
-            var role = action?.ApplicationRole;
-            if (role == null)
+            var action=await _appDbContext.AccessActions.Include(a=>a.ApplicationRole).
+                Where(a => a.ActionNameNormalized == actionName.Normalize() && 
+                           (a.ControllerNameNormalized ==controllerName.Normalize() || a.ControllerNameNormalized==controllerName.Normalize() + "Controller"))
+                .ToListAsync();
+            var roles = action?.Select(r=>r.ApplicationRole);
+            if (roles == null)
                 return false;
             var user =await _userManager.FindByNameAsync(userName);
+           
+            foreach (var role in roles)
+            {
+                var result = await _userManager.IsInRoleAsync(user, role.Name);
+                if (result)
+                {
+                    return true;
+                }
+            }
 
-            return await _userManager.IsInRoleAsync(user, role?.Name);
+            return false;
+            
+           
 
+        }
 
+        public async Task<IdentityResult> AddActionToRoleTaskAsync(AddNewRoleViewModel model)
+        {
+            var role = await _roleManager.Roles.Include(r=>r.Actions).FirstOrDefaultAsync(r => r.Name == model.RoleName);
+            if(role.Actions==null)
+                role.Actions=new List<AccessAction>();
+            foreach (var action in model.Actions)
+            {
+                if (!role.Actions.Any(a=>a.ActionNameNormalized==action.ActionName.Normalize() && a.ControllerNameNormalized==action.ControllerName.Normalize()))
+                {
+                    role.Actions.Add(new AccessAction()
+                    {
+                         ActionName = action.ActionName,
+                          ActionNameNormalized = action.ActionName.Normalize(),
+                          ControlName = action.ControllerName,
+                           ControllerNameNormalized = action.ControllerName.Normalize(),
+                            
+                        
+                    });
+                }
+            }
+
+            return await _roleManager.UpdateAsync(role);
         }
     }
 }
